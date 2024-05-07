@@ -1,5 +1,5 @@
 # EXPERIMENT NO:03
-PRESSURE MEASUREMENT USING ARDUINO AIM To interface an FSR force sensitive resistor
+# PRESSURE MEASUREMENT USING ARDUINO AIM To interface an FSR force sensitive resistor
 
 ## NAME: AVINASH T
 ## ROLL NO: 212223230026
